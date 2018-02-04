@@ -25,7 +25,9 @@ function johnLennonFacts (jlArray) {
         n--;
     } while (n < 15 && n > 0);  
     return array;
-}
+  }
+
+
 
     
   }
