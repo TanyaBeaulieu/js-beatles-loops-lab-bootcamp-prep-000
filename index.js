@@ -18,5 +18,6 @@ function johnLennonFacts (jlArray) {
   }
   
   function iLoveTheBeatles (n) {
+    var array = []
     
   }
